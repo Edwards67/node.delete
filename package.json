@@ -1,0 +1,13 @@
+{
+  "name": "node.delete",
+  "version": "1.0.0",
+  "description": "Test Project",
+  "main": "index.js",
+  "scripts": {
+    "emoji": "😀"
+  },
+  "keywords": [],
+  "author": "Chelsea",
+  "license": "ISC"
+
+}
